@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    font-family: 'Arial', sans-serif;
+}
+
+h2 {
+    color: #333;
+}
+
+.carousel-inner img {
+    max-height: 400px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #333;
+    color: white;
+}
+
+footer p {
+    margin: 0;
+}
+
+.container {
+    margin-top: 40px;
+}
